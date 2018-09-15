@@ -1,0 +1,93 @@
+
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	position: relative;
+}
+
+.container-fluid{
+	width:auto;
+}
+.navColor{
+	background-color:#00BFFF;
+}
+.backgroundColor
+{
+	background-color:#D3D3D3;
+
+}
+.rowc{
+	background-color:#2E8B57;
+}
+.muteColor{
+	color:#FFFFFF;
+}
+}
+small {
+	color:black;
+}
+
+.contact{
+	color:black;
+	font-weight: bold;
+}
+.msg{
+	color:#000000;
+}
+
+.sendColor {
+	background-color: #FFFFFF;
+	padding:1vh;
+}
+.receiveColor {
+	background-color: #F0E68C;
+	padding:1vh;
+}
+.text-left {
+	line-height:3rem;
+}
+.text-right {
+	line-height: 3rem;
+}
+.message{
+	background-color: #DCDCDC;
+}
+.whatsappImage{
+
+
+text-align: center;
+    padding-top: 90px;
+    }
+.textOne{
+
+ color: #000000;
+text-align: center;
+padding-top: 20px;
+
+}
+.textTwo{
+
+    font-size: 14px;
+    color: #000000;
+    
+    text-align: center;
+  }
+.avatar-pic {
+  width: 150px;
+  height:150px;
+}
+.profile{
+	height:60px;
+	width:60px;
+}
+.icons{
+	height:30px;
+	width:30px;
+}
+.dp{
+	height:50px;
+	width:50px;
+}
